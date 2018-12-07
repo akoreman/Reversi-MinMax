@@ -1,0 +1,9 @@
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\bin\Debug\Reversi.exe
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\bin\Debug\Reversi.pdb
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.csproj.GenerateResource.Cache
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.exe
+C:\Users\tkore\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.pdb
+C:\Users\Tim\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.exe
+C:\Users\Tim\OneDrive\Studie\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.pdb
