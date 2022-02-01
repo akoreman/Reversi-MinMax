@@ -17,3 +17,11 @@ C:\Users\tkore\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\Re
 C:\Users\tkore\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.pdb
 C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.exe
 C:\Users\Tim\OneDrive\Studie\BSc\Vakken\Informatica\Imperatief Programmeren\Reversi\reversi\Reversi\obj\Debug\Reversi.pdb
+C:\Users\tkore\OneDrive\unityprojects\Git\Reversi-MinMax\Reversi\bin\Debug\Reversi.exe
+C:\Users\tkore\OneDrive\unityprojects\Git\Reversi-MinMax\Reversi\bin\Debug\Reversi.pdb
+C:\Users\tkore\OneDrive\unityprojects\Git\Reversi-MinMax\Reversi\obj\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\tkore\OneDrive\unityprojects\Git\Reversi-MinMax\Reversi\obj\Debug\Reversi.Properties.Resources.resources
+C:\Users\tkore\OneDrive\unityprojects\Git\Reversi-MinMax\Reversi\obj\Debug\Reversi.csproj.GenerateResource.cache
+C:\Users\tkore\OneDrive\unityprojects\Git\Reversi-MinMax\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\tkore\OneDrive\unityprojects\Git\Reversi-MinMax\Reversi\obj\Debug\Reversi.exe
+C:\Users\tkore\OneDrive\unityprojects\Git\Reversi-MinMax\Reversi\obj\Debug\Reversi.pdb
