@@ -4,4 +4,4 @@ behaviour is based on a MinMax algorithm. Implemented using C#. Note that the wo
 
 # Screenshots
 
-<img src="https://raw.github.com/akoreman/Reversi-MinMax/main/images/Reversi.png" width="400">  
+<img src="https://raw.github.com/akoreman/Reversi-MinMax/main/images/Reversi.png" width="200">  
