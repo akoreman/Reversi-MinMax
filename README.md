@@ -3,3 +3,5 @@ This project implements the board game Reversi/othello (https://en.wikipedia.org
 behaviour is based on a MinMax algorithm. Implemented using C#. Note that the working language for this project is Dutch.
 
 # Screenshots
+
+<img src="https://raw.github.com/akoreman/Reversi-MinMax/main/images/Reversi.png" width="400">  
